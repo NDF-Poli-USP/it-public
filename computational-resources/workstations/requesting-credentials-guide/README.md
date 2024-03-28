@@ -1,7 +1,5 @@
 # Requesting Workstation Credentials Guide
 
-## Workstations
-
 Access to the workstations requires having workstation credentials. To request credentials, send an email to ndf-ti@usp.br with the following information:
 
 ```
@@ -16,7 +14,7 @@ Access to the workstations requires having workstation credentials. To request c
 - How you discovered the resources: 
 ```
 
-## Network
+### Network
 
 Login to the workstations is done via SSH, from inside the NDF's private network.
 
