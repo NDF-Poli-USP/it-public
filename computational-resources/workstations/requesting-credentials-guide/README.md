@@ -8,9 +8,10 @@ Access to the workstations requires having workstation credentials. To request c
 - GitHub account:
 - Roles (Teacher, masters, doctorate student, etc): 
 - Laboratory affiliations: 
-- Supervisor (if applicable) and duration of affiliation (if applicable): 
+- Supervisor (if applicable)
+- Duration of affiliation (if applicable): 
 - Reason for resource usage: 
-- Software intended to be used: 
+- Software intended to be used:
 - How you discovered the resources: 
 ```
 
