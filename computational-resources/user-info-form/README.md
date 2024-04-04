@@ -1,6 +1,6 @@
 # User Info Form
 
-This form is used to grant access to various computational resources from NDF.
+The information in this form is used to grant access to various computational resources from NDF.
 
 ```
 - Full name:
