@@ -9,6 +9,7 @@ This form is used to grant access to various computational resources from NDF.
 - Roles (Teacher, masters, doctorate student, etc):
 - Laboratory affiliations:
 - Supervisor (if applicable):
+- Research projects:
 - Duration of affiliation:
 - Reason for resource usage:
 - Software intended to be used:
