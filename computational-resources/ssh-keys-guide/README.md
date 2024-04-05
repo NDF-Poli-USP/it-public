@@ -35,7 +35,7 @@ ssh-add id_ed25519
 ```
 ## Windows 10 and 11
 
-- Open the command prompt (Search>Command Prompt>Right Click and Run as administrator)
+- Open the command prompt (Search>**Command Prompt** (do not use Power Shell)>Right Click and Run as administrator)
 
 ![image](https://github.com/NDF-Poli-USP/it-public/assets/158466624/a585d9b0-1b92-4db7-b6ff-c0a4cf76628f)
 
