@@ -8,8 +8,8 @@ This form is used to grant access to various computational resources from NDF.
 - GitHub account:
 - Roles (Teacher, masters, doctorate student, etc):
 - Laboratory affiliations:
-- Supervisor (if applicable)
-- Duration of affiliation (if applicable):
+- Supervisor (if applicable):
+- Duration of affiliation:
 - Reason for resource usage:
 - Software intended to be used:
 - How you discovered the resources:
