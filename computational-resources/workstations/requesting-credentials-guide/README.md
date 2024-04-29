@@ -1,6 +1,6 @@
 # Requesting Workstation Credentials Guide
 
-Access to the workstations requires having workstation credentials. To request credentials, send an email to ndf-ti@usp.br with the information specified in the User Info Form.
+Access to the workstations requires having workstation credentials. To request credentials, send an email to ndf-ti@usp.br with the information specified in the [User Info Form](https://github.com/NDF-Poli-USP/it-public/blob/main/computational-resources/user-info-form/README.md).
 
 ### Network
 
