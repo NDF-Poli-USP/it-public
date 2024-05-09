@@ -46,7 +46,7 @@ ssh-keygen -t ed25519 -C "%username%-%COMPUTERNAME%-%date:~0,2%-%date:~3,2%-%dat
 ```
 
 - Continue with `Enter` on all fields
-- Copy the contents of the public key
+- Copy the contents of the public key to send it to the system administrator
 ```
 type %userprofile%\.ssh\id_ed25519.pub
 ```
