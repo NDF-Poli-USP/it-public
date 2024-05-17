@@ -12,7 +12,7 @@ SSH keys are a safe way to log into machines remotely without providing your use
 ssh-keygen -o -a 256 -t ed25519 -C "$(whoami)-$(hostname)-$(date +'%d-%m-%Y')"
 ```
 - Continue with `Enter` on all fields
-- Copy the contents of the public key
+- Copy the contents of the public key to send it to the systems administrator
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
