@@ -10,7 +10,7 @@ This form is used to grant access to various computational resources from NDF.
 - Laboratory affiliations:
 - Supervisor (if applicable):
 - Research projects:
-- Duration of affiliation:
+- End date of affiliation:
 - Reason for resource usage:
 - Software intended to be used:
 - How you discovered the resources:
