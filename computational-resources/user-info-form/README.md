@@ -8,8 +8,9 @@ The information in this form is used to grant access to various computational re
 - GitHub account:
 - Roles (Teacher, masters, doctorate student, etc):
 - Laboratory affiliations:
-- Supervisor (if applicable)
-- Duration of affiliation (if applicable):
+- Supervisor (if applicable):
+- Research projects:
+- End date of affiliation:
 - Reason for resource usage:
 - Software intended to be used:
 - How you discovered the resources:

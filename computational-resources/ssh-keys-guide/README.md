@@ -12,7 +12,7 @@ SSH keys are a safe way to log into machines remotely without providing your use
 ssh-keygen -o -a 256 -t ed25519 -C "$(whoami)-$(hostname)-$(date +'%d-%m-%Y')"
 ```
 - Continue with `Enter` on all fields
-- Copy the contents of the public key
+- Copy the contents of the public key to send it to the systems administrator
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
@@ -35,7 +35,7 @@ ssh-add id_ed25519
 ```
 ## Windows 10 and 11
 
-- Open the command prompt (Search>Command Prompt>Right Click and Run as administrator)
+- Open the command prompt (Search>**Command Prompt (do not use Power Shell)**>Right Click and Run as administrator)
 
 ![image](https://github.com/NDF-Poli-USP/it-public/assets/158466624/a585d9b0-1b92-4db7-b6ff-c0a4cf76628f)
 
@@ -46,7 +46,7 @@ ssh-keygen -t ed25519 -C "%username%-%COMPUTERNAME%-%date:~0,2%-%date:~3,2%-%dat
 ```
 
 - Continue with `Enter` on all fields
-- Copy the contents of the public key
+- Copy the contents of the public key to send it to the systems administrator
 ```
 type %userprofile%\.ssh\id_ed25519.pub
 ```
