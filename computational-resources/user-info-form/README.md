@@ -4,14 +4,19 @@ The information in this form is used to grant access to various computational re
 
 ```
 - Full name:
-- Alternative contact email (personal is acceptable):
 - GitHub account:
 - Roles (Teacher, masters, doctorate student, etc):
-- Laboratory affiliations:
 - Supervisor (if applicable):
-- Research projects:
 - End date of affiliation:
-- Reason for resource usage:
 - Software intended to be used:
+```
+
+If you are not a member of the NDF, please also state the following:
+
+```
+- Reason for resource usage:
 - How you discovered the resources:
+- Alternative contact email (personal is acceptable):
+- Laboratory affiliations:
+- Research projects:
 ```
