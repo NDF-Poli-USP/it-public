@@ -9,6 +9,7 @@ The information in this form is used to grant access to various computational re
 - Supervisor (if applicable):
 - End date of affiliation:
 - Software intended to be used:
+- Alternative contact email (personal is acceptable):
 ```
 
 If you are not a member of the NDF, please also state the following:
@@ -16,7 +17,6 @@ If you are not a member of the NDF, please also state the following:
 ```
 - Reason for resource usage:
 - How you discovered the resources:
-- Alternative contact email (personal is acceptable):
 - Laboratory affiliations:
 - Research projects:
 ```
