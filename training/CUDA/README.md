@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Replace the src below with your actual image path or URL -->
-  <img src="./cuda_opencl_image.png" alt="CUDA and OpenCL Logos" width="450">
+  <img src="training/CUDA/4aea32d3-d267-47d3-a552-949b8d5292a4.png" alt="CUDA and OpenCL Logos" width="450">
 </p>
 
 <p align="center">
