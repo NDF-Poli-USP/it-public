@@ -108,7 +108,6 @@ Open a pull request or submit a suggestion!</p>
 <hr/>
 
 <div align="center">
-  <p><strong>Curated with ❤️ by <a href="https://github.com/rafaeltasinato">Rafael Tasinato</a></strong><br/>
   <img src="https://img.shields.io/badge/quality-for%20professionals-blueviolet?style=flat-square" alt="For Professionals Badge" /></p>
   📁 <em>Last updated: <!--LAST_UPDATED--></em>
 </div>
