@@ -1,137 +1,133 @@
-```markdown
-# 🐍 Python Hands-On Courses – Curated Selection
+<!-- README.md (HTML & CSS Enhanced Version) -->
 
-Welcome to a curated list of **high-quality, hands-on Python courses** — perfect for aspiring developers, engineers, and data scientists who want to build practical skills and real-world projects. Each course listed here has been **highly rated**, offering clear instruction, structured content, and practical challenges that align with professional standards.
+<div align="center">
+  <h1>🐍 Python Hands-On Courses – Curated Selection</h1>
+  <p>Welcome to a curated list of <strong>high-quality, hands-on Python courses</strong> &mdash; perfect for aspiring developers, engineers, and data scientists who want to build practical skills and real-world projects.</p>
+  <p>Each course has been <strong>highly rated</strong>, offering clear instruction, structured content, and practical challenges that align with professional standards.</p>
+</div>
 
----
+<hr/>
 
-## 📌 Why Hands-On?
+<h2>📌 Why Hands-On?</h2>
+<blockquote>
+  “Tell me and I forget. Teach me and I remember. Involve me and I learn.” &ndash; Benjamin Franklin
+</blockquote>
+<p>Learning Python through projects and practical exercises accelerates skill acquisition, boosts retention, and prepares you for real development challenges. All courses below emphasize applied learning &mdash; not just theory.</p>
 
-> “Tell me and I forget. Teach me and I remember. Involve me and I learn.” – Benjamin Franklin
+<hr/>
 
-Learning Python through projects and practical exercises accelerates skill acquisition, boosts retention, and prepares you for real development challenges. All courses below emphasize applied learning — not just theory.
+<h2>🚀 Top Recommended Courses</h2>
 
----
+<h3>🎓 <a href="https://www.coursera.org/specializations/python">Python for Everybody – University of Michigan (Coursera)</a></h3>
+<ul>
+  <li><strong>Instructor:</strong> Dr. Charles Severance (Dr. Chuck)</li>
+  <li><strong>Duration:</strong> ~8 months (self-paced)</li>
+  <li><strong>Highlights:</strong>
+    <ul>
+      <li>Complete beginner-friendly curriculum</li>
+      <li>Strong focus on practical programming</li>
+      <li>Projects using web APIs and databases</li>
+      <li>Subtitles + community forum + certificate</li>
+    </ul>
+  </li>
+</ul>
 
-## 🚀 Top Recommended Courses
+<h3>🧠 <a href="https://www.ime.usp.br/~pina/python/">Hands-On Python Tutorial – IME USP</a></h3>
+<ul>
+  <li><strong>Author:</strong> Prof. Rogério Eduardo Garcia</li>
+  <li><strong>Highlights:</strong>
+    <ul>
+      <li>Academic instruction</li>
+      <li>Interactive examples</li>
+      <li>Free and open-access</li>
+      <li>Ideal for autodidacts</li>
+    </ul>
+  </li>
+</ul>
 
-### 🎓 [Python for Everybody – University of Michigan (Coursera)](https://www.coursera.org/specializations/python)
+<h3>🛠️ <a href="https://codingbat.com/python">CodingBat – Python Practice</a></h3>
+<ul>
+  <li><strong>Author:</strong> Nick Parlante (Stanford)</li>
+  <li><strong>Highlights:</strong>
+    <ul>
+      <li>Algorithm challenges</li>
+      <li>Instant feedback</li>
+      <li>Interview prep</li>
+    </ul>
+  </li>
+</ul>
 
-- **Instructor**: Dr. Charles Severance (Dr. Chuck)  
-- **Platform**: Coursera  
-- **Duration**: ~8 months (self-paced)  
-- **Highlights**:
-  - Complete beginner-friendly curriculum  
-  - Strong focus on practical programming  
-  - Projects using web APIs and databases  
-  - Subtitles + community forum + certificate  
+<h3>💼 <a href="https://www.udemy.com/topic/python/">Complete Python Developer Course – Udemy</a></h3>
+<ul>
+  <li><strong>Instructors:</strong> Jose Portilla, Angela Yu, etc.</li>
+  <li><strong>Highlights:</strong>
+    <ul>
+      <li>Real-world projects</li>
+      <li>Mobile-friendly + lifetime access</li>
+      <li>Updated regularly</li>
+    </ul>
+  </li>
+</ul>
 
----
+<h3>🧹 [Other Portuguese Courses via TipsCode](https://codigofacil.com.br/melhores-cursos-de-python/)</h3>
+<ul>
+  <li><strong>Python Turbo Course:</strong> 40+ real projects, automation, data handling</li>
+  <li><strong>Codar.me:</strong> Django REST, Celery, Docker, CI/CD</li>
+  <li><strong>Universo Python:</strong> Flask, Django, GUI, advanced topics</li>
+  <li><strong>Danki Code:</strong> Full-stack, beginner to advanced</li>
+</ul>
 
-### 🧠 [Hands-On Python Tutorial – IME USP](https://www.ime.usp.br/~pina/python/)
+<hr/>
 
-- **Author**: Prof. Rogério Eduardo Garcia (University of São Paulo)  
-- **Platform**: Web-based tutorial  
-- **Highlights**:
-  - Clean and direct academic instruction  
-  - Interactive examples and exercises  
-  - Free and open-access content  
-  - Ideal for autodidacts and university students  
+<h2>🧱 How to Choose the Right Course</h2>
+<table>
+  <thead>
+    <tr><th>Factor</th><th>Tip</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Skill Level</td><td>Beginner, Intermediate, Advanced</td></tr>
+    <tr><td>Learning Goal</td><td>Web dev, data science, automation</td></tr>
+    <tr><td>Teaching Style</td><td>Video, practice, projects</td></tr>
+    <tr><td>Certification</td><td>Verified certs are great for resumes</td></tr>
+    <tr><td>Support</td><td>Community or instructor access</td></tr>
+  </tbody>
+</table>
 
----
+<hr/>
 
-### 🛠️ [CodingBat – Python Practice](https://codingbat.com/python)
+<h2>🤝 Contributions Welcome</h2>
+<p>Know a high-quality, project-based Python course that deserves a spot here?<br>
+Open a pull request or submit a suggestion!</p>
 
-- **Author**: Nick Parlante (Stanford University)  
-- **Platform**: Online problem bank  
-- **Highlights**:
-  - Dozens of algorithm-focused challenges  
-  - Instant feedback and live code testing  
-  - Great for improving logical thinking  
-  - Suitable for interviews and code katas  
+<blockquote>
+  <em>“Learning Python opens the door to automation, data, and modern software &mdash; start building today.”</em>
+</blockquote>
 
----
+<hr/>
 
-### 💼 [Complete Python Developer Course – Udemy](https://www.udemy.com/topic/python/)
+<div align="center">
+  <p><strong>Curated with ❤️ by <a href="https://github.com/rafaeltasinato">Rafael Tasinato</a></strong><br/>
+  <img src="https://img.shields.io/badge/quality-for%20professionals-blueviolet?style=flat-square" alt="For Professionals Badge" /></p>
+  <p>📁 <em>Last updated: {{LAST_UPDATED}}</em></p>
+</div>
 
-- **Instructor**: Various (ex: Jose Portilla, Andrei Neagoie, Dr. Angela Yu)  
-- **Platform**: Udemy  
-- **Highlights**:
-  - Real-world projects (e.g., web apps, games, automation tools)  
-  - Lifetime access + mobile-friendly  
-  - Regularly updated content  
-  - Certificate of completion  
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f5f5f5;
+  }
+  ul {
+    margin-top: 0;
+  }
+</style>
 
----
-
-### 🧩 [Python Turbo Course – TipsCode](https://codigofacil.com.br/melhores-cursos-de-python/)
-
-- **Language**: Portuguese  
-- **Structure**: 5 progressive learning phases  
-- **Highlights**:
-  - 40+ real-world projects  
-  - Covers automation, data handling, and web development  
-  - Highly practical and structured content  
-
----
-
-### 🌐 [Python & Django Full Stack – Codar.me](https://codigofacil.com.br/melhores-cursos-de-python/)
-
-- **Instructor**: Gabriel Saldanha  
-- **Highlights**:
-  - API development with Django Rest Framework  
-  - Celery for background tasks  
-  - Docker & CI/CD pipelines  
-  - Hands-on with real backend scenarios  
-
----
-
-### 🧱 [Universo Python – Academify](https://codigofacil.com.br/melhores-cursos-de-python/)
-
-- **Instructor**: Leandro Hirt  
-- **Language**: Portuguese  
-- **Highlights**:
-  - Python fundamentals to advanced topics  
-  - Web development with Flask & Django  
-  - GUI development and data handling  
-
----
-
-### 🎯 [Complete Python Course – Danki Code](https://codigofacil.com.br/melhores-cursos-de-python/)
-
-- **Highlights**:
-  - Beginner to advanced content  
-  - Strong emphasis on project creation  
-  - Great for full-stack developers starting in Python  
-
----
-
-## 🧭 How to Choose the Right Course
-
-| Factor            | Tip                                                                 |
-|-------------------|----------------------------------------------------------------------|
-| Skill Level       | Match the course to your current level: Beginner, Intermediate, Advanced |
-| Learning Goal     | Define your focus: Web dev, data science, automation, etc.          |
-| Teaching Style    | Look for courses that combine **video**, **practice**, and **projects** |
-| Certification     | Some courses offer verified certificates, great for your resume     |
-| Support           | Prioritize courses with community access or direct instructor help  |
-
----
-
-## 🤝 Contributions Welcome
-
-Know a high-quality, project-based Python course that deserves a spot here?  
-Feel free to open a pull request or submit a suggestion!
-
----
-
-> _“Learning Python opens the door to automation, data, and modern software — start building today.”_
-
----
-
-**Curated with ❤️ by [Rafael Tasinato](https://github.com/rafaeltasinato)** &nbsp; ![For Professionals](https://img.shields.io/badge/quality-for%20professionals-blueviolet?style=flat-square)
-
-📁 *Last updated: {{LAST_UPDATED}}*
-
-
-```
+<!-- Auto-updated by GitHub Actions -->
