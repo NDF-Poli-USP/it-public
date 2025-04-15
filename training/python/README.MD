@@ -1,5 +1,7 @@
 <!-- README.md (HTML & CSS Enhanced Version) -->
 
+<meta charset="UTF-8">
+
 <div align="center">
   <h1>🐍 Python Hands-On Courses – Curated Selection</h1>
   <p>Welcome to a curated list of <strong>high-quality, hands-on Python courses</strong> &mdash; perfect for aspiring developers, engineers, and data scientists who want to build practical skills and real-world projects.</p>
@@ -69,7 +71,7 @@
   </li>
 </ul>
 
-<h3>🧹 [Other Portuguese Courses via TipsCode](https://codigofacil.com.br/melhores-cursos-de-python/)</h3>
+<h3>🌐 <a href="https://codigofacil.com.br/melhores-cursos-de-python/">Other Portuguese Courses via TipsCode</a></h3>
 <ul>
   <li><strong>Python Turbo Course:</strong> 40+ real projects, automation, data handling</li>
   <li><strong>Codar.me:</strong> Django REST, Celery, Docker, CI/CD</li>
@@ -108,7 +110,7 @@ Open a pull request or submit a suggestion!</p>
 <div align="center">
   <p><strong>Curated with ❤️ by <a href="https://github.com/rafaeltasinato">Rafael Tasinato</a></strong><br/>
   <img src="https://img.shields.io/badge/quality-for%20professionals-blueviolet?style=flat-square" alt="For Professionals Badge" /></p>
-  <p>📁 <em>Last updated: {{LAST_UPDATED}}</em></p>
+  <p>📁 <em>Last updated: 2025-04-15</em></p>
 </div>
 
 <style>
@@ -124,6 +126,12 @@ Open a pull request or submit a suggestion!</p>
   }
   th {
     background-color: #f5f5f5;
+  }
+  tbody tr:nth-child(odd) {
+    background-color: #fafafa;
+  }
+  tbody tr:hover {
+    background-color: #f0f8ff;
   }
   ul {
     margin-top: 0;
