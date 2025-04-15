@@ -15,7 +15,7 @@ jobs:
       - name: Atualizar data no README
         run: |
           DATE=$(date -u "+%d/%m/%Y")
-          sed -i "s#<!--LAST_UPDATED-->.*#$DATE#" it-public/training/python/README.md
+          sed -i "s#<!--LAST_UPDATED-->.*#$DATE#" training/python/README.md
           
 
       - name: Commit e push se houver alterações
