@@ -1,6 +1,9 @@
 <!-- README.md -->
 
-<h1 align="center">🚀 The Ultimate Guide to GPU Computing (CUDA & OpenCL)</h1>
+<h1 align="center">🚀 The Ultimate Guide to GPU Computing 
+  
+  
+  (CUDA & OpenCL)</h1>
 
 <p align="center">
   <!-- Replace the src below with your actual image path or URL -->
