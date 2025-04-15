@@ -1,5 +1,3 @@
-Claro! Abaixo está uma versão aprimorada e elegante do `README.md`, com foco em qualidade de apresentação, estrutura limpa e linguagem profissional — no padrão exigido por designers e desenvolvedores de alto nível.
-
 ```markdown
 # 🐍 Python Hands-On Courses – Curated Selection
 
@@ -131,9 +129,9 @@ Feel free to open a pull request or submit a suggestion!
 
 ---
 
-**Curated by professionals. For professionals.**  
-📁 *Last updated: April 2025*
+**Curated with ❤️ by [Rafael Tasinato](https://github.com/rafaeltasinato)** &nbsp; ![For Professionals](https://img.shields.io/badge/quality-for%20professionals-blueviolet?style=flat-square)
+
+📁 *Last updated: {{LAST_UPDATED}}*
+
 
 ```
-
-Se quiser, posso gerar esse arquivo `.md` para download. Deseja que eu crie o arquivo para você agora?
