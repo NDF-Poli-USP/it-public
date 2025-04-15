@@ -106,10 +106,10 @@ Open a pull request or submit a suggestion!</p>
 </blockquote>
 
 <hr/>
-
 <div align="center">
   <img src="https://img.shields.io/badge/quality-for%20professionals-blueviolet?style=flat-square" alt="For Professionals Badge" /></p>
-  📁 <em>Last updated: <!--LAST_UPDATED--></em>
+  📁 *Last updated: <!--LAST_UPDATED-->*
+
 </div>
 
 <!-- Auto-updated by GitHub Actions -->
