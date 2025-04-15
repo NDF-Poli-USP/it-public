@@ -3,7 +3,7 @@
 <h1 align="center">🌐 The Ultimate Guide to Computer Networks</h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Computer_network_icon.svg/1024px-Computer_network_icon.svg.png" width="150" alt="Computer Networks Icon">
+  <img src="https://www.istockphoto.com/photo/communication-technology-with-global-internet-network-connected-in-europe-gm1433041100-475086388?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_image&utm_content=srp_topbanner_media&utm_term=computer+network" width="150" alt="Computer Networks Icon">
 </p>
 
 <p align="center">
