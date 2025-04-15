@@ -1,0 +1,28 @@
+name: 📆 Atualizar Data do README
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Executa todo domingo às 00:00 UTC
+  workflow_dispatch:      # Permite execução manual
+  push:
+    paths:
+      - README.md         # Executa quando o README.md é alterado
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🔄 Clonar repositório
+        uses: actions/checkout@v4
+
+      - name: 🕒 Atualizar data no README.md
+        run: |
+          DATA=$(date -u '+%Y-%m-%d')
+          sed -i "s|<!--LAST_UPDATED-->.*|<!--LAST_UPDATED-->${DATA}</em>|" README.md
+
+      - name: ✅ Commit e push se houver alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git commit -am "📆 Atualização automática da data: ${DATA}" && git push)
