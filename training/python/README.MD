@@ -110,32 +110,7 @@ Open a pull request or submit a suggestion!</p>
 <div align="center">
   <p><strong>Curated with ❤️ by <a href="https://github.com/rafaeltasinato">Rafael Tasinato</a></strong><br/>
   <img src="https://img.shields.io/badge/quality-for%20professionals-blueviolet?style=flat-square" alt="For Professionals Badge" /></p>
-  <p>📁 <em>Last updated: 2025-04-15</em></p>
+  📁 <em>Last updated: <!--LAST_UPDATED--></em>
 </div>
-
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-  }
-  th, td {
-    border: 1px solid #ccc;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #f5f5f5;
-  }
-  tbody tr:nth-child(odd) {
-    background-color: #fafafa;
-  }
-  tbody tr:hover {
-    background-color: #f0f8ff;
-  }
-  ul {
-    margin-top: 0;
-  }
-</style>
 
 <!-- Auto-updated by GitHub Actions -->
