@@ -108,7 +108,7 @@ Open a pull request or submit a suggestion!</p>
 <hr/>
 <div align="center">
   <img src="https://img.shields.io/badge/quality-for%20professionals-blueviolet?style=flat-square" alt="For Professionals Badge" /></p>
-  📁 *Last updated: <!--LAST_UPDATED-->*
+  📁 *Last updated: 15/04/2025
 
 </div>
 
