@@ -38,7 +38,7 @@ Follow the steps below to **access Research Rooms 1, 2, and 3, the Meeting Room,
 
 ## 🖼️ Reference Image
 
-![Intelbras Alarm Panel](https://github.com/NDF-Poli-USP/it-public/blob/main/alarm/images/xat_4000_lcd_aberto_0.png)
+<img src="https://github.com/NDF-Poli-USP/it-public/blob/main/alarm/images/xat_4000_lcd_aberto_0.png" alt="Intelbras Alarm Panel" style="max-width: 100%; height: auto;">
 
 ---
 
