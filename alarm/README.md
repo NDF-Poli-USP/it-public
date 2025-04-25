@@ -39,7 +39,7 @@ Follow the steps below to **access Research Rooms 1, 2, and 3, the Meeting Room,
 ## 🖼️ Reference Image
 
 <!-- Replace the URL below with an image of the alarm system -->
-![Intelbras Alarm System](link-to-alarm-system-image.jpg)
+![Intelbras Alarm System](alarm/images/xat_4000_lcd_aberto_0.png)
 
 ---
 
