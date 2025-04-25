@@ -42,5 +42,5 @@ Follow the steps below to **access Research Rooms 1, 2, and 3, the Meeting Room,
 
 ---
 
-**Sincerely,**  
+
 NDF Information Technology Team
