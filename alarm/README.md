@@ -2,7 +2,7 @@
 
 ## 🔒 Password Updates
 
-The Intelbras Alarm System password is updated **every semester** as part of the security measures of the Physics Development Center (NDF).  
+The Intelbras Alarm System password is updated **every semester** as part of the security measures of the Fluids & dynamics research group (NDF).  
 **Important:** The password may be changed at any time if deemed necessary by the IT team, **without prior individual notice**.  
 In such cases, the new password will be shared via email to the NDF group.
 
