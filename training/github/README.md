@@ -63,7 +63,7 @@
     Features comprehensive playlists on Git and GitHub fundamentals, as well as advanced version control techniques.
   </li>
   <li>
-    <strong><a href="https://www.youtube.com/c/Academind">Academind</a></strong><br>
+    <strong><a href="https://www.youtube.com/watch?v=ulQA5tjJark">Academind</a></strong><br>
     Provides quality tutorials and project-based learning sessions that cover practical GitHub workflows and collaborative projects.
   </li>
 </ul>
