@@ -59,7 +59,7 @@
     Offers clear and engaging tutorials on Git, GitHub, and other essential development tools.
   </li>
   <li>
-    <strong><a href="https://www.youtube.com/c/TheNetNinja">The Net Ninja</a></strong><br>
+    <strong><a href="https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR">The Net Ninja</a></strong><br>
     Features comprehensive playlists on Git and GitHub fundamentals, as well as advanced version control techniques.
   </li>
   <li>
