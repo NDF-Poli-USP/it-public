@@ -44,7 +44,7 @@
     Comprehensive training series for foundational Linux administration and command-line skills.
   </li>
   <li>
-    <strong><a href="https://learn.microsoft.com/en-us/training/paths/introduction-linux/">Microsoft Learn: Introduction to Linux</a></strong><br>
+    <strong><a href="https://4linux.com.br/cursos/treinamento/linux-fundamentals/">4Linux: Introduction to Linux</a></strong><br>
     A professionally crafted learning path with structured modules for Linux beginners.
   </li>
 </ul>
@@ -61,8 +61,8 @@
     Deep dives into Linux distributions, tutorials, reviews, and sysadmin tips.
   </li>
   <li>
-    <strong><a href="https://www.youtube.com/c/TheLinuxExperiment">The Linux Experiment</a></strong><br>
-    Well-produced content with guides, distro reviews, and Linux desktop tutorials.
+  <strong><a href="https://youtu.be/6nN2EglOqCM">Linux - First Steps (Curso em Vídeo)</a></strong><br>
+  Trailer for the free course by Curso em Vídeo, teaching basic concepts and introductory Linux commands (class in Portuguese).
   </li>
   <li>
     <strong><a href="https://www.youtube.com/c/NetworkChuck">NetworkChuck</a></strong><br>
