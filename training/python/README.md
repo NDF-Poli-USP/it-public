@@ -34,7 +34,7 @@
   </li>
 </ul>
 
-<h3>🧠 <a href="https://www.ime.usp.br/~pina/python/">Hands-On Python Tutorial – IME USP</a></h3>
+<h3>🧠 <a href="https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html">Hands-On Python Tutorial – IME USP</a></h3>
 <ul>
   <li><strong>Author:</strong> Prof. Rogério Eduardo Garcia</li>
   <li><strong>Highlights:</strong>
