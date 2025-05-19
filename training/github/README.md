@@ -55,7 +55,7 @@
 
 <ul>
   <li>
-    <strong><a href="https://www.youtube.com/c/TraversyMedia">Traversy Media</a></strong><br>
+    <strong><a href="https://youtu.be/vA5TTz6BXhY?feature=shared">Traversy Media</a></strong><br>
     Offers clear and engaging tutorials on Git, GitHub, and other essential development tools.
   </li>
   <li>
