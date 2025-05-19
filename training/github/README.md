@@ -1,6 +1,4 @@
-<!-- README.md -->
-
-<h1 align="center">🔧 The Ultimate Guide to Mastering GitHub</h1>
+# 🔧 The Ultimate Guide to Mastering GitHub
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120" alt="GitHub Logo">
@@ -11,19 +9,19 @@
   <i>Curated for university students and tech enthusiasts.</i>
 </p>
 
-<hr>
+---
 
-<h2>📚 GitHub Courses</h2>
+## 📚 GitHub Courses
 
-<h3>🎓 Free Courses</h3>
+### 🎓 Free Courses
 
 <ul>
   <li>
-    <strong><a href="https://lab.github.com/">GitHub Learning Lab</a></strong><br>
+    <strong><a href="https://skills.github.com/">GitHub Skills</a></strong><br>
     An interactive platform offering hands-on courses to master Git, GitHub workflows, and collaboration with real projects.
   </li>
   <li>
-    <strong><a href="https://help.github.com/en/get-started/quickstart">GitHub Quickstart Guide</a></strong><br>
+    <strong><a href="https://docs.github.com/en/get-started">GitHub Quickstart Guide</a></strong><br>
     A comprehensive guide by GitHub that helps beginners get started quickly with Git and GitHub basics.
   </li>
   <li>
@@ -32,7 +30,7 @@
   </li>
 </ul>
 
-<h3>💰 Paid Courses</h3>
+### 💰 Paid Courses
 
 <ul>
   <li>
@@ -40,7 +38,7 @@
     A top-rated course that covers Git and GitHub from basic concepts to advanced workflows, ideal for real-world applications.
   </li>
   <li>
-    <strong><a href="https://www.pluralsight.com/courses/git-getting-started">Pluralsight: Getting Started with Git</a></strong><br>
+    <strong><a href="https://www.pluralsight.com/courses/getting-started-git">Pluralsight: Getting Started with Git</a></strong><br>
     A professionally structured training series on Git fundamentals, repository management, and GitHub collaboration.
   </li>
   <li>
@@ -49,11 +47,11 @@
   </li>
 </ul>
 
-<hr>
+---
 
-<h2>📺 Recommended YouTube Channels</h2>
+## 📺 Recommended YouTube Channels
 
-<h3>🌍 English Channels</h3>
+### 🌍 English Channels
 
 <ul>
   <li>
@@ -70,17 +68,13 @@
   </li>
 </ul>
 
-<hr>
+---
 
-<h2>🧠 Final Tip</h2>
+## 🧠 Final Tip
 
-<p>
-  💡 <strong>Practice your GitHub skills by contributing to open-source projects</strong> or starting your own repository. Experiment with branching, pull requests, and continuous integration to master real-world workflows.
-</p>
+💡 **Practice your GitHub skills by contributing to open-source projects** or starting your own repository. Experiment with branching, pull requests, and continuous integration to master real-world workflows.
 
-<blockquote>
-  "Consistency and collaboration are the keys to becoming proficient in GitHub and version control." 😉
-</blockquote>
+> "Consistency and collaboration are the keys to becoming proficient in GitHub and version control." 😉
 
 <p align="center">
   <i>Designed for curious minds ready to explore the world of collaborative development.</i>
