@@ -49,7 +49,7 @@ Two of the most prominent frameworks in GPU programming are <strong>CUDA</strong
 <h3>💰 Paid Courses</h3>
 <ul>
   <li>
-    <strong><a href="https://www.udemy.com/course/cuda-programming/">Udemy: CUDA Programming Masterclass</a></strong><br>
+    <strong><a href="https://www.udemy.com/course/arquitetura-e-programacao-de-gpus/?couponCode=CP130525BRGB">Udemy: CUDA </a></strong><br>
     Top-rated course with theory and practical projects, focusing on leveraging NVIDIA GPUs using CUDA.
   </li>
   <li>
