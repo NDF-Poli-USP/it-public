@@ -72,8 +72,8 @@ Two of the most prominent frameworks in GPU programming are <strong>CUDA</strong
     Official channel with in-depth tutorials and webinars on CUDA, GPU computing innovations, and developer tools.
   </li>
   <li>
-    <strong><a href="https://www.youtube.com/c/OpenCLorg">OpenCL Org</a></strong><br>
-    Covers the OpenCL specification, keynotes, demo presentations, and real-world use cases.
+    <strong><a href="https://youtu.be/86FAWCzIe_4?feature=shared">CUDA Programming Course – High-Performance Computing with GPUs</a></strong><br>
+    Lean how to program with Nvidia CUDA and leverage GPUs for high-performance computing and deep learning.
   </li>
   <li>
     <strong><a href="https://www.youtube.com/results?search_query=cuda+opencl+gpu+computing">GPU Computing Tutorials</a></strong><br>
