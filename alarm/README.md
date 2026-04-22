@@ -71,3 +71,5 @@ For support or incident reporting, contact the **NDF-IT team**.
 ---
 
 **NDF Information Technology Team**
+
+e-mail: ndf-ti@usp.br
