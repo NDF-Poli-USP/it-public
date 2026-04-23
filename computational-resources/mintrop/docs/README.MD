@@ -5,7 +5,7 @@
 <h1 align="center">🖥️ Mintrop HPC – Quick Start Guide</h1>
 
 <p align="center">
-  <b>Núcleo de Dinâmica e Fluidos (NDF) • Poli-USP</b>
+  <b>Fluid Dynamics and Fluids Research Center (NDF) • Poli-USP</b>
 </p>
 
 <p align="center">
@@ -18,45 +18,45 @@
 
 ## 📌 Overview
 
-O **Mintrop** é um cluster HPC utilizado para:
+**Mintrop** is a High-Performance Computing (HPC) cluster used for:
 
-* Simulações científicas (CFD, FEM)
-* Machine Learning / AI
-* Processamento intensivo
+* Scientific simulations (CFD, FEM)
+* Machine Learning / AI workloads
+* Intensive data processing
 
 ---
 
-## 🔑 Acesso
+## 🔑 Access
 
 ```bash
-ssh usuario@IP_DO_MINTROP
+ssh user@MINTROP_IP
 ```
 
 ```bash
 hostname
 ```
 
-| Resultado | Significado  |
+| Output    | Meaning      |
 | --------- | ------------ |
 | loginXX   | Headnode     |
 | computeXX | Compute node |
 
 ---
 
-## ⚠️ Regra mais importante
+## ⚠️ Most Important Rule
 
-❌ Nunca rode código pesado no **headnode**
-✔ Use apenas para:
+❌ Never run heavy workloads on the **headnode**
+✔ Use it only for:
 
-* Navegação
-* Preparação
-* Submissão
+* Navigation
+* File preparation
+* Job submission
 
 ---
 
-## 🚀 Execução
+## 🚀 Execution
 
-### 🔹 Interativo (teste)
+### 🔹 Interactive Mode (testing)
 
 ```bash
 srun --pty bash -i
@@ -67,7 +67,7 @@ module load python
 python script.py
 ```
 
-🔙 Sair do nó:
+🔙 Exit compute node:
 
 ```bash
 exit
@@ -75,11 +75,11 @@ exit
 
 ---
 
-### 🔹 Batch (produção)
+### 🔹 Batch Mode (production)
 
 ```bash
 #!/bin/bash
-#SBATCH --job-name=meu_job
+#SBATCH --job-name=my_job
 #SBATCH --cpus-per-task=8
 #SBATCH --time=01:00:00
 
@@ -95,77 +95,77 @@ sbatch job.sh
 
 ---
 
-## 📊 Monitoramento
+## 📊 Monitoring
 
 ```bash
-squeue -u seu_usuario
+squeue -u your_user
 scancel JOB_ID
 sinfo
 ```
 
 ---
 
-## 📁 Estrutura de diretórios
+## 📁 Directory Structure
 
-### 🏠 `/home` (persistente)
+### 🏠 `/home` (persistent storage)
 
-* Compartilhado entre todos os nós
-* Armazenamento permanente
+* Shared across all nodes
+* Permanent storage
 
-✔ Use para:
+✔ Use for:
 
 * Scripts
-* Resultados finais
-* Ambientes
+* Final results
+* Environments
 
-⚠ Mais lento (NFS)
-
----
-
-### ⚡ `/scratch` (execução)
-
-* Disco local do nó
-* Alta performance
-* Temporário (pode ser limpo)
-
-✔ Use para:
-
-* Execução de jobs
-* Dados intermediários
+⚠ Slower I/O (NFS)
 
 ---
 
-## 🔁 Fluxo correto (OBRIGATÓRIO)
+### ⚡ `/scratch` (execution space)
+
+* Local disk per node
+* High performance
+* Temporary (may be cleared after jobs)
+
+✔ Use for:
+
+* Job execution
+* Intermediate data
+
+---
+
+## 🔁 Recommended Workflow (MANDATORY)
 
 ```bash
 srun --pty bash -i
 
-# copiar dados
-cp -r ~/projeto /scratch/
+# copy data
+cp -r ~/project /scratch/
 
-# executar
-cd /scratch/projeto
+# run
+cd /scratch/project
 python script.py
 
-# salvar resultados
-cp -r resultados ~/projeto/
+# save results
+cp -r results ~/project/
 
-# sair do node
+# exit node
 exit
 ```
 
 ---
 
-## 🧠 Conceito técnico
+## 🧠 Technical Concept
 
-| Diretório | Tipo  | Performance | Persistência |
-| --------- | ----- | ----------- | ------------ |
-| /home     | NFS   | Baixa       | Alta         |
-| /scratch  | Local | Alta        | Baixa        |
+| Directory | Type  | Performance | Persistence |
+| --------- | ----- | ----------- | ----------- |
+| /home     | NFS   | Low         | High        |
+| /scratch  | Local | High        | Low         |
 
 ---
 
-## 📦 Módulos
+## 📦 Modules
 
 ```bash
 module purge
@@ -176,19 +176,19 @@ module list
 
 ---
 
-## 🧵 Sessões persistentes
+## 🧵 Persistent Sessions
 
 ```bash
-screen -S sessao
+screen -S session
 ```
 
-Desanexar:
+Detach:
 
 ```
 Ctrl + A + D
 ```
 
-Retornar:
+Resume:
 
 ```bash
 screen -x
@@ -196,66 +196,63 @@ screen -x
 
 ---
 
-## 🔄 Transferência de dados
+## 🔄 Data Transfer
 
-Enviar arquivos:
-
-```bash
-rsync -av arquivo user@host:~/destino/
-```
-
-Receber arquivos:
+Send files:
 
 ```bash
-rsync -av user@host:~/arquivo ./local/
+rsync -av file user@host:~/destination/
+```
+
+Receive files:
+
+```bash
+rsync -av user@host:~/file ./local/
 ```
 
 ---
 
-## ⚠️ Observações importantes
+## ⚠️ Important Notes
 
-* `/home` é compartilhado entre nós
-* `/scratch` é local por nó
-* DGX possui `/home` local
-* Dados podem ser perdidos → faça backup
-
----
-
-## 🔒 Boas práticas
-
-* Sempre testar com `srun`
-* Usar `/scratch` para execução
-* Nunca sobrecarregar o headnode
-* Usar `module purge` antes de rodar jobs
-* Fazer backup externo
+* `/home` is shared across nodes
+* `/scratch` is node-local
+* DGX nodes have local `/home`
+* Data loss is possible → keep backups
 
 ---
 
-## 📚 Documentação oficial
+## 🔒 Best Practices
 
-Consulte os tutoriais completos do Mintrop para:
+* Always test with `srun`
+* Use `/scratch` for execution
+* Never overload the headnode
+* Use `module purge` before jobs
+* Keep external backups
 
-* SLURM avançado
+---
+
+## 📚 Official Documentation
+
+Refer to the full Mintrop documentation for:
+
+* Advanced SLURM usage
 * MPI / OpenMP
-* Jupyter remoto
+* Remote Jupyter
 * OpenFOAM / Devito / Firedrake
 
-📎 Referência interna:
-
-
 ---
 
-## ✅ Conclusão
+## ✅ Conclusion
 
-Com este guia você consegue:
+With this guide, you can:
 
-* Acessar o cluster
-* Executar jobs corretamente
-* Utilizar recursos de forma eficiente
-* Seguir boas práticas de HPC
+* Access the cluster
+* Run jobs correctly
+* Use resources efficiently
+* Follow HPC best practices
 
 ---
 
 <p align="center">
-  Desenvolvido para uso interno do NDF • Poli-USP
+  Developed for internal use at NDF • Poli-USP
 </p>
