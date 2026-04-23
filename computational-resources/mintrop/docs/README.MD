@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/assets/logo-ndf.png" width="260"/>
+  <img src="./docs/assets/ndf_logo_caption_colour-1 (1).png" width="260"/>
 </p>
 
 <h1 align="center">🖥️ Mintrop HPC – Quick Start Guide</h1>
